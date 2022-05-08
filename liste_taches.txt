@@ -1,0 +1,30 @@
+Project Network Schedule Diagram
+
+Documentation
+
+Diagramme UML
+
+Faire une base de données
+    creer tables
+
+création "page" login/inscription
+    routes
+    redirection
+
+création groupes de discussion
+    creer une salle
+    inviter des personnes
+    afficher les listes de groupes
+    entrer dans un groupe
+    sortir du groupe/ commande exit
+    envoyer des messages dans le groupe
+
+création du chat privé
+    ajouter une personne
+    envoyer des message
+
+historique de conversation
+    recuperer chaque conversation 
+    afficher les n derniers messages a chaque ouverture du chat
+    
+
